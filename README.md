@@ -22,6 +22,6 @@ The paper was published in 2023. Citation for the work is
 
 Crossley, S. A., Tian, Y., Baffour, P., Franklin, A., Kim, Y., Morris, W., Benner, B., Picou, A., & Boser, U. (2023). [Measuring second language proficiency using the English Language Learner Insight, Proficiency and Skills Evaluation (ELLIPSE) Corpus.](https://benjamins.com/catalog/ijlcr.22026.cro?srsltid=AfmBOoqIEK6lzlQ2UUWOxWDlQ8msOmWAvA3Q_CjZvXSQ2G_mWZVnreJW) International Journal of Learner Corpus Research, 9 (2), 248-269.
 
-A pre-print of the paper can be found [here](https://zenodo.org/records/11217937).
+A pre-print of the paper that is freely accessible to all can be found [here](https://zenodo.org/records/11217937).
 
 The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
