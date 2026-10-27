@@ -24,4 +24,4 @@ Crossley, S. A., Tian, Y., Baffour, P., Franklin, A., Kim, Y., Morris, W., Benne
 
 A pre-print of the paper that is freely accessible to all can be found [here](https://zenodo.org/records/11217937).
 
-The data is provided under a CC BY-NC-SA 4.0 DEED Attribution-NonCommercial-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+The data is provided under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
